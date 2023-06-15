@@ -1,0 +1,18 @@
+[
+{
+   "tipo":"espreso",
+   "precio":"700" 
+},
+{
+    "tipo":"cortado",
+   "precio":"600" 
+},
+{
+    "tipo":"cappuchino especial",
+   "precio":"800" 
+},
+{
+    "tipo":"mocachino",
+   "precio":"1000" 
+}
+]
